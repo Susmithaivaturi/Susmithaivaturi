@@ -7,13 +7,13 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:**  
+**Languages**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
 
-**Web Technologies:**  
+**Web Technologies**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />&nbsp;
@@ -21,15 +21,14 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" style="filter: brightness(0) invert(1);" />
 
-**Frameworks & ML Libraries:**  
+**Frameworks & ML Libraries**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" style="filter: brightness(0) invert(1);" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />&nbsp;
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="30" title="Scikit-learn" />
 
-**Database:**  
+**Database**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
 
-**Tools & Platforms:**  
+**Tools & Platforms**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="filter: brightness(0) invert(1);" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" style="filter: brightness(0) invert(1);" />&nbsp;
@@ -40,11 +39,9 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Susmithaivaturi&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmithaivaturi&layout=compact&theme=radical&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Susmithaivaturi&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmithaivaturi&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
 </p>
-
-- 🔥 **219 contributions in the last year**
 
 ---
 
@@ -57,4 +54,9 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/naga-sai-susmith)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/naga-sai-susmitha-i)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge)](https://susmithaivaturi.tech)
+
+---
+
+_Thanks for visiting my profile! Let’s connect and build something amazing together._ ✨
