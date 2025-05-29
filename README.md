@@ -21,7 +21,6 @@ I enjoy turning ideas into reality through clean code and user-focused design. I
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=susmithaivaturi&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmithaivaturi&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
