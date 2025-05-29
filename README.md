@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there 👋, I'm Susmitha!</h1>
 <h3 align="center">🎓 AIML Student | 💻 Web Developer | 🔍 Curious Learner</h3>
 
@@ -19,28 +20,36 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" />
+<!-- White icon for Express -->
+<img src="https://img.icons8.com/ios-filled/50/ffffff/express-js.png" width="30" />
 
 **Frameworks & ML Libraries:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> Scikit-learn
+<!-- White icon for Flask -->
+<img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" width="30" />&nbsp;
+<!-- Added scikit-learn icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="30" />&nbsp;Scikit-learn
 
 **Database:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
 
 **Tools & Platforms:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />&nbsp;
+<!-- White GitHub icon -->
+<img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />&nbsp;
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="30" />
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/ffffff/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="30" />
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Susmithaivaturi&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmithaivaturi&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=susmithaivaturi&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmithaivaturi&layout=compact&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susmithaivaturi&theme=react-dark&hide_border=true" width="80%" />
 </p>
 
 ---
