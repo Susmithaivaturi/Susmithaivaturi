@@ -7,40 +7,40 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+**Languages:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 
-**Web Technologies**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="30" />
+**Web Technologies:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> &nbsp;
+[![Express.js](https://img.shields.io/badge/-Express.js-white?logo=express&logoColor=black&style=for-the-badge)](https://expressjs.com/)
 
-**Frameworks & ML Libraries**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" style="filter: brightness(0) invert(1);" />&nbsp;
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="30" title="Scikit-learn" />
+**Frameworks & ML Libraries:**  
+[![Flask](https://img.shields.io/badge/-Flask-white?logo=flask&logoColor=black&style=for-the-badge)](https://flask.palletsprojects.com/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" />
 
-**Database**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
+**Database:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
 
-**Tools & Platforms**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="filter: brightness(0) invert(1);" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" style="filter: brightness(0) invert(1);" />&nbsp;
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="30" style="filter: brightness(0) invert(1);" />
+**Tools & Platforms:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> &nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=black&style=for-the-badge)](https://github.com/Susmithaivaturi)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> &nbsp;
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="30" />
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Susmithaivaturi&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmithaivaturi&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Susmithaivaturi&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmithaivaturi&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -60,3 +60,8 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 ---
 
 _Thanks for visiting my profile! Let’s connect and build something amazing together._ ✨
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Editing Susmithaivaturi/README.md at main · Susmithaivaturi/Susmithaivaturi
