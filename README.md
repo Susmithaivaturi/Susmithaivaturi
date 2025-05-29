@@ -19,7 +19,7 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" style="filter: brightness(0) invert(1);" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="30" />
 
 **Frameworks & ML Libraries**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" style="filter: brightness(0) invert(1);" />&nbsp;
