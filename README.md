@@ -22,7 +22,7 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 [![](https://img.shields.io/badge/express-white?logo=express&logoColor=black&style=for-the-badge&label=express)](https://expressjs.com/)
 
 **Frameworks & ML Libraries:**  
-[![](https://img.shields.io/badge/flask-white?logo=flask&logoColor=black&style=for-the-badge&label=flask)](https://flask.palletsprojects.com/)
+[![](https://img.shields.io/badge/flask-white?logo=flask&logoColor=black&style=for-the-badge&label=flask)](https://flask.palletsprojects.com/)  
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" />
 
 **Database:**  
@@ -30,7 +30,7 @@ Aspiring Web Developer pursuing a Bachelor's in Artificial Intelligence and Mach
 
 **Tools & Platforms:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> &nbsp;
-[![](https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge&label=github)](https://github.com/Susmithaivaturi)
+[![](https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge&label=github)](https://github.com/Susmithaivaturi)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> &nbsp;
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="30" />
 
